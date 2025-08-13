@@ -1,0 +1,1 @@
+{"tfjsVersion":"1.7.4","tmVersion":"2.4.10","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2025-08-09T10:13:56.476Z","userMetadata":{},"modelName":"tm-my-image-model","labels":["Fair Cool","Fair Warm","Medium Cool","Medium Warm","Neutral Cool","Deep Cool","Deep Warm"],"imageSize":224}
